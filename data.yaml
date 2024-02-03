@@ -1,0 +1,12 @@
+names:
+- pothole
+nc: 1
+roboflow:
+  license: ODbL v1.0
+  project: pothole-grkbm
+  url: https://app.roboflow.com/yolo-jvsna/pothole-grkbm/1
+  version: 1
+  workspace: yolo-jvsna
+test: Pothole-1/test/images
+train: Pothole-1/train/images
+val: Pothole-1/valid/images
